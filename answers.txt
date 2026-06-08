@@ -5,3 +5,8 @@ Answer: for the group project to work together on it and share our code to our c
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: data sciecne could be applied to the finance feild by predicting the stock market
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merge keeps history and adds a commit but rebase rewrites history
+
